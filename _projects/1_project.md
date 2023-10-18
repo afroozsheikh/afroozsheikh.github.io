@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autism Spectrum Disorder Diagnosis Using Graph Neural Network
+title: GNNs in ASD Diagnosis from brain fMRI data
 description: 
 img: assets/img/pro1.png
 importance: 1
