@@ -1,22 +1,18 @@
 ---
 layout: page
-title: 3
-description: Drug-drug Interaction Prediction
-img: assets/img/pro3.png
-redirect: 
-importance: 3
+title: 7
+description: Trigger word detection
+img:
+importance: 7
 category: work
 ---
-Background: Due to the popularity of using multiple drugs for the treatment of complex diseases, drug-drug interactions (DDI) may give rise to the risk of unanticipated adverse effects and even unknown toxicity. In this project, I aimed to predict drug-drug interactions given information on already known drug-drug interactions. Each node represents an experimental drug and edges represent interactions between drugs.
+Goal: recognize trigger words (a.k.a “activate”) given short audio data.
 
-Method: I used the obgl-ddi dataset to predict interactions between drugs. The task was link prediction and I used two approaches for this prediction. Firstly, I used the Node2vec algorithm for learning the embeddings of the given graph. Node2vec randomly walks and tries to make a balance between local and global structures of the graph. Then the result of dot production of 2 node embeddings(both positive and negative edges) will pass through some linear layers to make a prediction. My second approach was to utilize a graph neural network which consisted of three GCN layers and three linear layers following them.
+Tools and frameworks: 1D Convolutional neural network, Recurrent neural network (RNN) architecture made up of Keras-implemented Gated Recurrent Units (GRU).
 
-Results: The evaluation metric for this project is Hits@K. The hits@k describes the fraction of true entities that appear in the first k entities of the sorted rank list
+Approach and architecture: Conventionally, the dataset for the trigger word detection task is created manually for two reasons: first, it takes a lot of time to record audio clips with both trigger words and other commands, and second, it can be difficult to precisely label a recorded audio clip. Instead, we can merge a random 10-second background sound, 0–4 random trigger words, and 0–2 other commands to create each training and test sample. As a result, we are able to provide precise labels for each sample because we are aware of the precise moment the trigger phrase is introduced into the audio. We compute a spectrogram of the raw audio and then generate our dataset as was explained earlier to make it easier for your sequence model to learn to recognize trigger words. After extracting low-level data features from the spectrograms using a 1D Conv layer, the data is then sent to a two-layer recurrent neural network in which 128 Gated Recurrent Units (GRU) are used in each layer to evaluate the context of the input spectrograms. In order to determine whether the trigger word is being pronounced at this time stamp, we transmit each GRU output to a softmax layer. Finally, our mode predicts 1 if the trigger word is being said at the time stamp, and 0 otherwise.
 
-See more detailes and implementation in my <a href='https://github.com/afroozsheikh/Drug-Drug-Interactions'>Github</a>
-
-<!-- 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

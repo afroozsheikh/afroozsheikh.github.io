@@ -1,22 +1,21 @@
 ---
 layout: page
-title: 3
-description: Drug-drug Interaction Prediction
-img: assets/img/pro3.png
-redirect: 
-importance: 3
+title: 8
+description: Date translator
+img:
+importance: 8
 category: work
 ---
-Background: Due to the popularity of using multiple drugs for the treatment of complex diseases, drug-drug interactions (DDI) may give rise to the risk of unanticipated adverse effects and even unknown toxicity. In this project, I aimed to predict drug-drug interactions given information on already known drug-drug interactions. Each node represents an experimental drug and edges represent interactions between drugs.
 
-Method: I used the obgl-ddi dataset to predict interactions between drugs. The task was link prediction and I used two approaches for this prediction. Firstly, I used the Node2vec algorithm for learning the embeddings of the given graph. Node2vec randomly walks and tries to make a balance between local and global structures of the graph. Then the result of dot production of 2 node embeddings(both positive and negative edges) will pass through some linear layers to make a prediction. My second approach was to utilize a graph neural network which consisted of three GCN layers and three linear layers following them.
+Goal: Translate any format of date input to its corresponding “yyyy-mm-dd” format
 
-Results: The evaluation metric for this project is Hits@K. The hits@k describes the fraction of true entities that appear in the first k entities of the sorted rank list
+Tools and frameworks: Recurrent neural network (RNN) architecture using Bidirectional Long short-term memory cell (Bi-LSTM), both Attention layers were implemented using Keras.
 
-See more detailes and implementation in my <a href='https://github.com/afroozsheikh/Drug-Drug-Interactions'>Github</a>
+Approach and architecture:  First, we preprocess the input string to convert all of its characters to the corresponding indexes, then the result was passed to the Bi-LSTM layer to get the string state, then passed to an attention layer followed by an LSTM layer, and finally pass every LSTM cell output to a SoftMax function to predict the index of the output string.
 
-<!-- 
-Every project has a beautiful feature showcase page.
+Outcome: The final package was able to take a maximum of 36-characters sentences and predict the “yyyy-mm-dd” format of the input string.
+
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 

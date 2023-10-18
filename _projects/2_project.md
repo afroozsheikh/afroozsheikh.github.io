@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SLI
+title: 2
 description: Detection of Specific Language Impairment
 img: assets/img/pro2.jpg
 importance: 2
