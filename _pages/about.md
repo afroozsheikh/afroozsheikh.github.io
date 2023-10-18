@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: BSc in Computer Engineering, AI Enthusiastic
 
 profile:
   align: right
@@ -19,24 +19,19 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there, I'm Afrouz!
 
-<font size="4.5">
+<!-- <font size="4.5"> -->
 As an AI enthusiast, I am genuinely passionate about the advancements and potential of artificial intelligence, which fuels my drive to continuously learn and grow in this field.
- 
 <br/><br/>
-
-
-I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023, working as research assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks for my bachelor's project under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>
- 
+I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023, working as Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>
 <br/><br/>
-
-
-My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. Specifically, in the field of Graph Representation Learning, I am keen on investigating innovative methods to efficiently represent and analyze graph-structured data in various domains such as Brain Networks, Social Networks, Recommendation Systems, and Biological Networks.
+My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. Specifically, in the field of Graph Representation Learning, I am keen on analysing complex data, such as Brain Networks, Social Networks, and Biological Networks. 
+Additionally, I am intrigued by the integration of computer vision techniques into medical applications.
 <br/><br/>
+In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, and I also exercise regularly.
 
-</font>
+<!-- </font> -->
 
-
-I am a computer science graduate with a strong passion for artificial intelligence (AI). My primary research interests lie in the exciting fields of graph representation learning, computer vision, and natural language understanding. I am particularly fascinated by their applications in healthcare, as I believe AI has the potential to revolutionize the way we approach medical diagnostics and treatment.
+<!-- I am a computer science graduate with a strong passion for artificial intelligence (AI). My primary research interests lie in the exciting fields of graph representation learning, computer vision, and natural language understanding. I am particularly fascinated by their applications in healthcare, as I believe AI has the potential to revolutionize the way we approach medical diagnostics and treatment. -->
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
