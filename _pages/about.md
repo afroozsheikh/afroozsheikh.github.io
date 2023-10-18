@@ -21,7 +21,6 @@ Hi there, I'm Afrouz!
 
 <!-- <font size="4.5"> -->
 <!-- As an AI enthusiast, I am genuinely passionate about the advancements and potential of artificial intelligence, which fuels my drive to continuously learn and grow in this field. -->
-<br/><br/>
 I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>
 <br/><br/>
 My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. Specifically, in the field of Graph Representation Learning, I am keen on analysing complex data, such as Brain Networks, Social Networks, and Biological Networks. 
