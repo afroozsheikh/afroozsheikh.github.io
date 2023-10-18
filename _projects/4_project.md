@@ -2,7 +2,7 @@
 layout: page
 title: 4
 description: Nuclear Segmentation of Histology Images
-img: assets/img/pro3.jpg
+img: assets/img/pro4.jpg
 importance: 4
 category: work
 ---
