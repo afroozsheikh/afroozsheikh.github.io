@@ -6,7 +6,7 @@ subtitle: BSc in Computer Engineering, AI Enthusiastic
 
 profile:
   align: right
-  image: myphotog.jpg
+  image: myphoto2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Isfahan, Iran</p>
