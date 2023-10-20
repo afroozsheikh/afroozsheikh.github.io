@@ -23,13 +23,11 @@ Hi there, I'm Afrouz!
 <!-- As an AI enthusiast, I am genuinely passionate about the advancements and potential of artificial intelligence, which fuels my drive to continuously learn and grow in this field. -->
 I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>.
 
-<br/>
 Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
 
-<br/>
 My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. 
 In the field of Graph Representation Learning, I am keen on designing methods for analysing complex data (Brain, Social, or Biological Networks) as well as conducting research in the intersection of graph mining and NLP.  Additionally, I am intrigued by the integration of computer vision techniques into medical applications. 
-<br/>
+
 In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends and engaging in regular exercise.
 
 <!-- </font> -->
