@@ -25,12 +25,12 @@ I did my undergraduate studies at Isfahan University of Technology, Isfahan, Ira
 
 Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
 
-My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. 
-In the field of Graph Representation Learning, I am keen on designing methods for analysing complex data (Brain, Social, or Biological Networks) as well as conducting research in the intersection of graph mining and NLP.  Additionally, I am intrigued by the integration of computer vision techniques into medical applications. 
+My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. Currently, I am actively seeking research positions that align with these areas of interest.
 
 In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends and engaging in regular exercise.
 
 <!-- </font> -->
+<!-- In the field of Graph Representation Learning, I am keen on designing methods for analysing complex data (Brain, Social, or Biological Networks) as well as conducting research in the intersection of graph mining and NLP.  Additionally, I am intrigued by the integration of computer vision techniques into medical applications.  -->
 
 <!-- I am a computer science graduate with a strong passion for artificial intelligence (AI). My primary research interests lie in the exciting fields of graph representation learning, computer vision, and natural language understanding. I am particularly fascinated by their applications in healthcare, as I believe AI has the potential to revolutionize the way we approach medical diagnostics and treatment. -->
 
