@@ -9,7 +9,7 @@ profile:
   image: myphoto3.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Isfahan, Iran</p>
+    <p>Sydney, NSW, Australia</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -26,7 +26,7 @@ I'm currently a Master of Research Student and a member of the <b><a href='https
 
 My research interests lie generally in the area of Machine Learning with a focus on Graph Representation Learning, Graph Neural Networks, and Natural Language Processing. 
 
-I also did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>. Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
+I also did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>. Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods.
 
 
 In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends, doing yoga and engaging in regular exercise.
