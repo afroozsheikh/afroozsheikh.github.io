@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: BSc in Computer Engineering, AI Enthusiastic
+subtitle: Master of Research Student at Macquarie University
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Isfahan, Iran</p>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
@@ -21,11 +21,16 @@ Hi there, I'm Afrouz!
 
 <!-- <font size="4.5"> -->
 <!-- As an AI enthusiast, I am genuinely passionate about the advancements and potential of artificial intelligence, which fuels my drive to continuously learn and grow in this field. -->
+
+I'm a Master of Research Student at Macquarie University, School of Computing Science, advised by Prof. Amin Beheshti and Dr. Dr Xuyun Zhang. 
+
+My research interests lie generally in the area of Machine Learning with a focus on Graph Representation Learning, Graph Neural Networks, and Natural Language Processing. 
+
 I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>.
 
 Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
 
-My research interests lies in Graph Representation Learning, Computer Vision, and Natural Language Processing. Currently, I am actively seeking research positions that align with these areas of interest.
+
 
 In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends and engaging in regular exercise.
 
