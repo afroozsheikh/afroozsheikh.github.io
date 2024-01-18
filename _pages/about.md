@@ -6,8 +6,8 @@ subtitle: Master of Research Student at Macquarie University
 
 profile:
   align: right
-  image: myphoto2.jpg
-  image_circular: true # crops the image to make it circular
+  image: myphoto3.jpg
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>Isfahan, Iran</p>
 
@@ -22,17 +22,14 @@ Hi there, I'm Afrouz!
 <!-- <font size="4.5"> -->
 <!-- As an AI enthusiast, I am genuinely passionate about the advancements and potential of artificial intelligence, which fuels my drive to continuously learn and grow in this field. -->
 
-I'm a Master of Research Student at Macquarie University, School of Computing Science, advised by Prof. Amin Beheshti and Dr. Dr Xuyun Zhang. 
+I'm currently a Master of Research Student and a member of the <b><a href='https://www.mq.edu.au/research/research-centres-groups-and-facilities/centres/centre-for-applied-artificial-intelligence'>Centre for Applied Artificial Intelligence </a></b> at Macquarie University, advised by <a href='https://data-science-group.github.io/people/aminbeheshti/'> Prof. Amin Beheshti</a> and <a href='https://sites.google.com/site/seanzhangcs/'>Dr. Dr Xuyun Zhang</a>. 
 
 My research interests lie generally in the area of Machine Learning with a focus on Graph Representation Learning, Graph Neural Networks, and Natural Language Processing. 
 
-I did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>.
-
-Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
+I also did my undergraduate studies at Isfahan University of Technology, Isfahan, Iran, from 2018-2023 where I worked as a Research Assistant in <a href='https://malekilab.ir/'>Complex Networks & Data Analysis Lab </a> on diagnosing Autism Spectrum Disorder using Graph Neural Networks from brain fMRI data under Supervision of <a href='https://zmaleki.iut.ac.ir/'>Dr. Zeinab Maleki</a> and <a href='https://shayegh.iut.ac.ir/'>Dr. Farzaneh Shayegh </a>. Throughout my undergraduate studies, I actively engaged in various projects involving <b>Computer Vision</b> and <b>Natural Language Processing (NLP)</b> and contributed to two published research papers, one focusing on the multi-label detection of ocular diseases, and the other involving sentiment analysis of COVID-related tweets utilizing a combination of BERT-based models and fuzzy fusion methods. For more information regarding my research, work and teaching experiences, kindly refer to my CV.
 
 
-
-In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends and engaging in regular exercise.
+In my spare time, I enjoy reading books and watching movies that make me reflect on myself and life. I love playing the piano, spending time with friends, doing yoga and engaging in regular exercise.
 
 <!-- </font> -->
 <!-- In the field of Graph Representation Learning, I am keen on designing methods for analysing complex data (Brain, Social, or Biological Networks) as well as conducting research in the intersection of graph mining and NLP.  Additionally, I am intrigued by the integration of computer vision techniques into medical applications.  -->
